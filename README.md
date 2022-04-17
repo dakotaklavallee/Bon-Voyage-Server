@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/LZQk8KP.png)
+
 # Bon-Voyage-Server
 
 The backend for the application Bon Voyage!
